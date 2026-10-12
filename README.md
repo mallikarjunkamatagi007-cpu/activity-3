@@ -12,3 +12,4 @@ My name is Mallikarjun Kamatagi, and I am a B.Tech student at REVA University st
 
 ## Goal
 - Goal: contribute to open-source projects
+- Goal: contribute to open source
