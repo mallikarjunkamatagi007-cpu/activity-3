@@ -4,6 +4,7 @@ My name is Mallikarjun Kamatagi, and I am a B.Tech student at REVA University st
 
 ## Skills
 - Learning C programming
+- Learning Python
 
 ## Interests
 - Interested in software development
