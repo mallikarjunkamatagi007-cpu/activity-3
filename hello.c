@@ -1,10 +1,11 @@
+
 #include <stdio.h>
 
-void greet(void) {
-    printf("Hello from our collaborative program!\n");
+void greet(const char *name) {
+    printf("Hello, %s!\n", name);
 }
 
 int main(void) {
-    greet();
+    greet("Adarsh");
     return 0;
 }
