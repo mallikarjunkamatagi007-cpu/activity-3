@@ -17,3 +17,9 @@ My name is Mallikarjun Kamatagi, and I am a B.Tech student at REVA University st
 
 - **Hello World C:** A simple C program demonstrating basic output.
 - **LeetCode Solutions:** My solutions to programming problems.
+
+## Collaboration Log
+
+- **Collaborator:** Adarsh Gadag
+- **Work completed:** Used VS Code Live Share for real-time collaboration and created a C program with a `greet()` function.
+- **What I learned:** I learned how Live Share supports real-time code editing and collaboration.
